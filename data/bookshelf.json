@@ -1,0 +1,49 @@
+{
+    "books": [
+        {
+            "notes": [],
+            "year": 1959,
+            "author": "Keyes",
+            "page": 100,
+            "title": "A flower for algernon",
+            "markedPage": 72
+        },
+        {
+            "notes": [
+                {
+                    "page": 3,
+                    "text": "My mom's favorite!"
+                },
+                {
+                    "page": 7,
+                    "text": "This is an interesting story."
+                }
+            ],
+            "year": 1888,
+            "author": "Burnett",
+            "page": 50,
+            "title": "A tiny princess",
+            "markedPage": 0
+        },
+        {
+            "notes": [{
+                "page": 90,
+                "text": "My childhood favourite!"
+            }],
+            "year": 2001,
+            "author": "Spinnen",
+            "page": 140,
+            "title": "The Rabbit Revenge Plan",
+            "markedPage": 137
+        },
+        {
+            "notes": [],
+            "year": 1994,
+            "author": "Yoko Ogawa",
+            "page": 411,
+            "title": "Memory Police",
+            "markedPage": 0
+        }
+    ],
+    "decorations": [{"decorationName": "A teddy bear"}]
+}

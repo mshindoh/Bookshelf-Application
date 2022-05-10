@@ -1,0 +1,50 @@
+{
+  "books": [
+    {
+      "notes": [],
+      "year": 1959,
+      "author": "Keyes",
+      "page": 150,
+      "title": "A flower for algernon",
+      "markedPage": 72
+    },
+    {
+      "notes": [
+        {
+          "page": 3,
+          "text": "My mom's favorite!"
+        },
+        {
+          "page": 7,
+          "text": "This is an interesting story."
+        }
+      ],
+      "year": 1888,
+      "author": "Burnett",
+      "page": 137,
+      "title": "A tiny princess",
+      "markedPage": 50
+    },
+    {
+      "notes": [
+        {
+          "page": 90,
+          "text": "My childhood favourite!"
+        }
+      ],
+      "year": 2001,
+      "author": "Spinnen",
+      "page": 140,
+      "title": "The Rabbit Revenge Plan",
+      "markedPage": 0
+    }
+  ],
+  "decorations": [
+    {
+      "decorationName": "Teddy bear"
+    },
+    {
+      "decorationName": "Flowers"
+    }
+  ]
+}

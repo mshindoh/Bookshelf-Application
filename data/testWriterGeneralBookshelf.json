@@ -1,0 +1,24 @@
+{
+    "books": [
+        {
+            "notes": [],
+            "year": 1959,
+            "author": "Keyes",
+            "page": 150,
+            "title": "A flower for algernon",
+            "markedPage": 72
+        },
+        {
+            "notes": [{
+                "page": 3,
+                "text": "My mom's favorite!"
+            }],
+            "year": 1888,
+            "author": "Burnett",
+            "page": 50,
+            "title": "A tiny princess",
+            "markedPage": 0
+        }
+    ],
+    "decorations": [{"decorationName": "Teddy bear"}]
+}
